@@ -1,0 +1,11 @@
+exportPattern("^[[:alpha:]]+")
+exportMethods(
+"revComp",
+"parseMIR",
+"anabel",
+"freq",
+"miRclump",
+"Mapping",
+"clump2gff"
+)
+
