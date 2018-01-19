@@ -1,3 +1,3 @@
 # miRclump
-Finds natural microRNA sponges in mRNA sequences  
+Finds natural microRNA sponges in predicted microRNA-target sequences  
 Under construction...
