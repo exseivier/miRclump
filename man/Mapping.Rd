@@ -1,7 +1,7 @@
-% File man/
-\name{}
-\alias{}
-\title{}
+% File man/Mapping.Rd
+\name{Mapping}
+\alias{Mapping}
+\title{Maps the mRNA sequences whose have high freuencies of microRNA seed on genome}
 \description{
 }
 \usage{

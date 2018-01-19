@@ -1,7 +1,7 @@
-% File man/
-\name{}
-\alias{}
-\title{}
+% File man/clump2gff.Rd
+\name{clump2gff}
+\alias{clump2gff}
+\title{Transforms the output of miRclump to gff format}
 \description{
 }
 \usage{
